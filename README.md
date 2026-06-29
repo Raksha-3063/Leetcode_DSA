@@ -62,7 +62,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 
 ## 🔗 Profiles
 
-- **LeetCode:** https://leetcode.com/u/YOUR_LEETCODE_USERNAME/
+- **LeetCode:** https://leetcode.com/u/Raksha_C_C/
 - **GitHub:** https://github.com/Raksha-3063
 
 ---
