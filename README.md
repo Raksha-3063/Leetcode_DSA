@@ -15,22 +15,6 @@ Hi, I'm **Raksha C C**, a final-year B.Tech Computer Science student passionate 
 - 🧠 Focused on improving DSA and interview skills
 - 🚀 Regularly updated with newly solved problems
 
-## 📂 Repository Structure
-
-```
-LeetCode-Solutions/
-│
-├── 0001-Two-Sum/
-│   ├── README.md
-│   └── solution.cpp
-│
-├── 0035-Search-Insert-Position/
-│   ├── README.md
-│   └── solution.cpp
-│
-└── ...
-```
-
 ## 🎯 Goals
 
 - Solve LeetCode problems consistently.
