@@ -9,7 +9,7 @@ Hi, I'm **Raksha C C**, a final-year B.Tech Computer Science student passionate 
 
 ## 📌 Repository Highlights
 
-- 💻 Language: **C++**
+- 💻 Language: **C++,SQL**
 - 🔄 Automatically synced using **LeetSync**
 - 📚 Covers Easy, Medium, and Hard problems
 - 🧠 Focused on improving DSA and interview skills
@@ -24,7 +24,7 @@ Hi, I'm **Raksha C C**, a final-year B.Tech Computer Science student passionate 
 
 ## 🛠️ Languages & Topics
 
-- C++
+- C++,SQL
 - Data Structures
 - Algorithms
 - Arrays
