@@ -71,4 +71,5 @@ Problems are automatically updated whenever an accepted submission is made on Le
 |  |
 | ------- |
 | [0577-employee-bonus](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0577-employee-bonus) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
