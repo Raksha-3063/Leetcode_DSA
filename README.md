@@ -67,4 +67,8 @@ Problems are automatically updated whenever an accepted submission is made on Le
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
