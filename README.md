@@ -67,6 +67,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Database
 |  |
 | ------- |
@@ -78,4 +79,12 @@ Problems are automatically updated whenever an accepted submission is made on Le
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Array
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
