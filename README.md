@@ -74,4 +74,8 @@ Problems are automatically updated whenever an accepted submission is made on Le
 | [0577-employee-bonus](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0577-employee-bonus) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
