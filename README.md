@@ -75,6 +75,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 | ------- |
 | [0176-second-highest-salary](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0176-second-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0183-customers-who-never-order) |
+| [0196-delete-duplicate-emails](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0196-delete-duplicate-emails) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0577-employee-bonus) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
