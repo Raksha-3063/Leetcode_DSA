@@ -59,6 +59,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
@@ -68,6 +69,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Database
@@ -88,6 +90,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 ## Array
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
