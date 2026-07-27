@@ -101,6 +101,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 | [0904-fruit-into-baskets](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -111,4 +112,12 @@ Problems are automatically updated whenever an accepted submission is made on Le
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/1004-max-consecutive-ones-iii) |
+## Sorting
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
