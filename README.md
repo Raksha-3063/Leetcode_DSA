@@ -97,6 +97,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0577-employee-bonus) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
+| [0626-exchange-seats](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0626-exchange-seats) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 ## Math
