@@ -105,6 +105,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0007-reverse-integer) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
