@@ -113,6 +113,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0904-fruit-into-baskets](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -152,4 +153,8 @@ Problems are automatically updated whenever an accepted submission is made on Le
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
