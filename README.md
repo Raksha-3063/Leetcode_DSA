@@ -120,6 +120,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 | [1248-count-number-of-nice-subarrays](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Prefix Sum
 |  |
 | ------- |
