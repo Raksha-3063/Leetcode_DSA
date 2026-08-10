@@ -117,6 +117,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0992-subarrays-with-k-different-integers) |
