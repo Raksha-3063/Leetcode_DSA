@@ -117,6 +117,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 | ------- |
 | [0001-two-sum](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0283-move-zeroes) |
@@ -144,6 +145,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
@@ -164,10 +166,19 @@ Problems are automatically updated whenever an accepted submission is made on Le
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0136-single-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
