@@ -122,6 +122,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0217-contains-duplicate) |
@@ -213,4 +214,8 @@ Problems are automatically updated whenever an accepted submission is made on Le
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0912-sort-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
