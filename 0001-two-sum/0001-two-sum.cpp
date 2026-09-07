@@ -7,20 +7,18 @@ public:
    for(int i=0;i<n;i++){
     temp.push_back({num[i],i});
    }
-
    sort(temp.begin(),temp.end());
-   int low=0;
-   int high=n-1;
-   int sum =0;
+
+   int low=0,high=n-1,sum=0;
 
    while(low<high){
-     sum = temp[low].first+temp[high].first;
+      sum = temp[low].first+temp[high].first;
 
-     if(sum==target) return {temp[low].second,temp[high].second};
-     else if(sum>target) high--;
-     else low++;
+      if(sum==target) return {temp[low].second,temp[high].second};
+      else if(sum>target) high--;
+      else low++;
    }
-   return {};
+   return{};
 
 }
  
