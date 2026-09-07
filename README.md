@@ -61,6 +61,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 | [0001-two-sum](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -109,6 +110,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 | ------- |
 | [0007-reverse-integer](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0268-missing-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -123,6 +125,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 | [0136-single-number](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0904-fruit-into-baskets) |
@@ -145,6 +148,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0268-missing-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
@@ -152,6 +156,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 | [0075-sort-colors](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -183,6 +188,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0268-missing-number) |
 ## Quicksort
 |  |
 | ------- |
