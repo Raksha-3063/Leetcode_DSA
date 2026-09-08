@@ -121,6 +121,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 | ------- |
 | [0001-two-sum](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -209,6 +210,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0053-maximum-subarray) |
 | [0912-sort-an-array](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -225,5 +227,6 @@ Problems are automatically updated whenever an accepted submission is made on Le
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
