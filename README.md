@@ -61,6 +61,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 | [0001-two-sum](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -74,6 +75,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -167,6 +169,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 | [0075-sort-colors](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0912-sort-an-array) |
