@@ -78,6 +78,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 | [0020-valid-parentheses](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -204,6 +205,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
