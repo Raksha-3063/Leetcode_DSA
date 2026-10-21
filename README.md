@@ -60,6 +60,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 | ------- |
 | [0001-two-sum](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0268-missing-number) |
@@ -79,6 +80,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0344-reverse-string) |
@@ -135,6 +137,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 | [0014-longest-common-prefix](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0088-merge-sorted-array) |
@@ -177,6 +180,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0217-contains-duplicate) |
