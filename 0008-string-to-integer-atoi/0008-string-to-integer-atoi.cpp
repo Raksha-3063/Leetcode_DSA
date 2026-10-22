@@ -25,6 +25,6 @@ public:
         i++;
      }
        
-       return static_cast<int>(sign*num);
+       return sign*num;
     }
 };
