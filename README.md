@@ -78,6 +78,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0049-group-anagrams) |
