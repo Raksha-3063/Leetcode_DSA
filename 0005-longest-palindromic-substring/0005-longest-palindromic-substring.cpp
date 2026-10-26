@@ -1,15 +1,13 @@
 class Solution {
 public:
     string expand(int i, int j, string s) {
-        int left = i;
-        int right = j;
 
-        while (left >= 0 && right < s.size() && s[left] == s[right]) {
-            left--;
-            right++;
+        while (i >= 0 && j < s.size() && s[i] == s[j]) {
+            i--;
+            j++;
         }
 
-        return s.substr(left + 1, right - left - 1);
+        return s.substr(i+ 1, j - i - 1);
     }
 
     string longestPalindrome(string s) {
