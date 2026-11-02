@@ -2,46 +2,38 @@
 class Solution {
 public:
     string longestPalindrome(string s) {
-        if (s.length() <= 1)
-            return s;
+       if(s.size()<=1) return s;
+       string LPS = "";
 
-        string LPS = "";
+       for(int i=0;i<s.size();i++){
 
-        for (int i = 0; i < s.length(); i++) {
+           int low = i;
+           int high = i;
 
-            // Consider odd length palindrome
-            int low = i;
-            int high = i;
+           while(low >=0 && high < s.size() && s[low]==s[high]){
+            low--;high++;
+           }
+           string palin = s.substr(low+1,high-low-1);
 
-            while (low >= 0 && high < s.length() &&
-                   s[low] == s[high]) {
-                low--;
-                high++;
-            }
+           if(palin.size() > LPS.size()){
+            LPS = palin;
+           }
+ 
 
-            string palindrome = s.substr(low + 1, high - low - 1);
-
-            if (palindrome.length() > LPS.length()) {
-                LPS = palindrome;
-            }
-
-            // Consider even length palindrome
-            low = i - 1;
+           low = i-1;
             high = i;
 
-            while (low >= 0 && high < s.length() &&
-                   s[low] == s[high]) {
-                low--;
-                high++;
-            }
+           while(low >=0 && high < s.size() && s[low]==s[high]){
+            low--;high++;
+           }
+           palin = s.substr(low+1,high-low-1);
 
-            palindrome = s.substr(low + 1, high - low - 1);
+           if(palin.size() > LPS.size()){
+            LPS = palin;
+           }
 
-            if (palindrome.length() > LPS.length()) {
-                LPS = palindrome;
-            }
-        }
+       }
 
-        return LPS;
+       return LPS;
     }
 };
