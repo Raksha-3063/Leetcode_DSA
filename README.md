@@ -101,6 +101,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -154,6 +155,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 | [0283-move-zeroes](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0930-binary-subarrays-with-sum) |
