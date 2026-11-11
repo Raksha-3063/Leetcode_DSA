@@ -68,6 +68,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 | [0383-ransom-note](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -91,6 +92,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 | [0387-first-unique-character-in-a-string](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0680-valid-palindrome-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -101,6 +103,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0930-binary-subarrays-with-sum) |
