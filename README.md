@@ -102,6 +102,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -153,6 +154,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 | [0136-single-number](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0268-missing-number) |
@@ -173,6 +175,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0238-product-of-array-except-self) |
 | [0930-binary-subarrays-with-sum](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -183,6 +186,7 @@ Problems are automatically updated whenever an accepted submission is made on Le
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/Raksha-3063/Leetcode_DSA/tree/master/1004-max-consecutive-ones-iii) |
